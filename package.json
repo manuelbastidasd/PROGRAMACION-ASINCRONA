@@ -1,7 +1,7 @@
 {
   "name": "servidor",
   "version": "1.0.0",
-  "description": "mi servidor",
+  "description": "Actividad 3.1, Programacion asincrona",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.9"
   }
 }
-
